@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Shadrack Mbuvi - [Github](https://github.com/sheddiembuvi) / [Twitter](https://twitter.com/sheddiembuvi)  
-Geofrey Nyangoya - [Github](https://github.com/NyangoyaG) / [Twitter](https://twitter.com/jeffgeek)  
+Shadrack Mbuvi - [Github](https://github.com/SheddieMbuvi) / [Twitter](https://twitter.com/sheddiembuvi)  
+Geofrey Nyangoya - [Github](https://github.com/NyangoyaG) / [Twitter](https://twitter.com/GeofreyNyangoya)  
 
 Second part of Airbnb: Joann Vuong
 ## License
